@@ -24,7 +24,6 @@ public class FindUpperTriangularMatrix {
             if (forwardDiagonal == 1) {
                 break;
             }
-
         }
         if (forwardDiagonal == 0) {
             System.out.println("Yes");
